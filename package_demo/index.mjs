@@ -66,6 +66,7 @@ console.log(data);
 *for to fetch data of all district of state
 *for each state filter the centers which has vaccine of user choice
 *filter each data point based on whether user wants free or paid vaccination'
-*send an email to the user periodically
+*send an email to the user periodically (to send mail - npm modeule "node mailer" )
+
 
 */ 
