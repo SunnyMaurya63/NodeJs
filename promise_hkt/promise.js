@@ -159,7 +159,75 @@ function sunnyAsyncFunction() {
     let p = new Promise(function (resolve) {
         // do some async logic here
         setTimeout(function(){
-            resolve("hi there!")
+            resolve("hi there!")+
+            +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
         },3000)
     });
     return p;
